@@ -1,1 +1,3 @@
 # Project
+# AES-256
+#AES-256 (Advanced Encryption Standard with a 256-bit key) is a highly secure symmetric encryption algorithm that operates on 128-bit data blocks using a 256-bit key. Developed by NIST, it is widely used for its balance of strong security and efficiency. The encryption process involves 14 rounds of transformations including substitution (using S-boxes), row shifting, column mixing, and key addition, making it resistant to cryptographic attacks. AES-256 is implemented in various applications such as secure communications, file encryption, and wireless security, ensuring robust protection for sensitive data.
